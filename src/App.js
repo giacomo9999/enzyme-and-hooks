@@ -13,7 +13,7 @@ function App() {
         data-test="increment-button"
         onClick={() => {
           setCount(count + 1);
-          console.log("Count: ", count);
+          // console.log("Count: ", count);
         }}
       >
         Click Me
